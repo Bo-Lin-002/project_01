@@ -1,0 +1,5 @@
+# 忽略Readme.md这个文件
+Readme.md
+
+# 忽略test文件夹下的所有文件
+test/
